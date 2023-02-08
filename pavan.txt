@@ -1,4 +1,10 @@
 
 
+<<<<<<< HEAD
 i ahve making changes in the code,
 but my manager said you have to depoly it asap and workonit after some time.
+=======
+
+  and appply intenr s hello work hard
+hey how are you it been so ong 
+>>>>>>> main
